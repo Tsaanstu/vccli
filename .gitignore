@@ -1,0 +1,7 @@
+*-local*
+.idea
+.golangci.yml
+
+# golang local workspace
+go.work
+go.work.sum
